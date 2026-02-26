@@ -244,8 +244,8 @@ export default function Page() {
               <div>
                 <h2>Problem Solving Case study</h2>
                 <p>
-                  Structured in 3 segments - Startup, Deloitte, and Life. Each case is shown
-                  in a resume-style expandable format with <strong>Problem</strong>,{" "}
+                  Structured in 3 segments - Startup, Deloitte and Life. Each case is shown
+                  in a expandable format with <strong>Problem</strong>,{" "}
                   <strong>Approach</strong>, and <strong>Solution</strong>. Everything is Hand Typed, No AI slop! I got my best learning at Case 1 - Life Domain
                 </p>
               </div>
